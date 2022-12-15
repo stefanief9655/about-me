@@ -1,2 +1,5 @@
 # Stefanie Flannery
-### Stefanief9655@hstat.org
+#### Stefanief9655@hstat.org
+
+### Student
+## High School 
