@@ -4,3 +4,4 @@
 ### Student
 ## High School Telecommunications Arts and Technology
 
+git log
