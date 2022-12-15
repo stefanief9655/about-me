@@ -2,4 +2,5 @@
 #### Stefanief9655@hstat.org
 
 ### Student
-## High School 
+## High School Telecommunications Arts and Technology
+
