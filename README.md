@@ -1,5 +1,5 @@
 # Stefanie Flannery
-#### Stefanief9655@hstat.org
+#### _Stefanief9655@hstat.org_
 
 ### Student
 ## High School Telecommunications Arts and Technology
@@ -10,19 +10,25 @@ I am 15 years old, born and raised in Bay Ridge, Brooklyn. I am currently a soph
 
 ---
 ### Schedule
- * 1st Period
+ * **1st Period**
      * YOGA
- * 2nd Period
+ * **2nd Period**
      * Software Engineering
- * 3rd Period
+ * **3rd Period**
      * Global History
- * 4th Period
+ * **4th Period**
      * Big History Project
- * 5th Period
+ * **5th Period**
      * Chemistry
- * 6th Period
+ * **6th Period**
      * Spanish
- * 7th Period
+ * **7th Period**
      * Lunch
- * 8th Period
+ * **8th Period**
      * Algebra 2
+
+---
+### Cookies I Like To Make
+1. Snickerdoodle
+2. Chocolate Chip M&M
+3. Suagr Cookies
