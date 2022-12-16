@@ -1,5 +1,6 @@
 # Stefanie Flannery
 #### _Stefanief9655@hstat.org_
+[Portfolio Of My Work](https://stefanief9655.github.io/)
 
 ### Student
 ## High School Telecommunications Arts and Technology
