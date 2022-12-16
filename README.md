@@ -32,4 +32,4 @@ I am 15 years old, born and raised in Bay Ridge, Brooklyn. I am currently a soph
 ### Cookies I Like To Make
 1. Snickerdoodle
 2. Chocolate Chip M&M
-3. Suagr Cookies
+3. Sugar Cookies
